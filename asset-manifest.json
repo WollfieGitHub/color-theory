@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.cc84b5f7.css",
-    "main.js": "/static/js/main.dfb9b361.js",
+    "main.css": "/static/css/main.911287a8.css",
+    "main.js": "/static/js/main.18d84a93.js",
     "static/media/618px-Donald_Duck.svg.webp": "/static/media/618px-Donald_Duck.svg.aa7ff006732a98f17388.webp",
     "index.html": "/index.html",
-    "main.cc84b5f7.css.map": "/static/css/main.cc84b5f7.css.map",
-    "main.dfb9b361.js.map": "/static/js/main.dfb9b361.js.map"
+    "main.911287a8.css.map": "/static/css/main.911287a8.css.map",
+    "main.18d84a93.js.map": "/static/js/main.18d84a93.js.map"
   },
   "entrypoints": [
-    "static/css/main.cc84b5f7.css",
-    "static/js/main.dfb9b361.js"
+    "static/css/main.911287a8.css",
+    "static/js/main.18d84a93.js"
   ]
 }

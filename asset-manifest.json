@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cc84b5f7.css",
+    "main.js": "/static/js/main.dfb9b361.js",
+    "static/media/618px-Donald_Duck.svg.webp": "/static/media/618px-Donald_Duck.svg.aa7ff006732a98f17388.webp",
+    "index.html": "/index.html",
+    "main.cc84b5f7.css.map": "/static/css/main.cc84b5f7.css.map",
+    "main.dfb9b361.js.map": "/static/js/main.dfb9b361.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc84b5f7.css",
+    "static/js/main.dfb9b361.js"
+  ]
+}

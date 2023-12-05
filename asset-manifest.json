@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.7995fd70.css",
-    "main.js": "/static/js/main.606b62ff.js",
+    "main.js": "/static/js/main.698d3747.js",
     "static/media/inside_out.png": "/static/media/inside_out.2111ac788439a4b883ec.png",
     "static/media/lucadash_da_char_design.png": "/static/media/lucadash_da_char_design.893e1214e588e05d9646.png",
     "static/media/cartoon_1.png": "/static/media/cartoon_1.0ded4a58679b18955180.png",
     "static/media/donald_duck.png": "/static/media/donald_duck.5efe1d2153f8743f3b6e.png",
     "index.html": "/index.html",
     "main.7995fd70.css.map": "/static/css/main.7995fd70.css.map",
-    "main.606b62ff.js.map": "/static/js/main.606b62ff.js.map"
+    "main.698d3747.js.map": "/static/js/main.698d3747.js.map"
   },
   "entrypoints": [
     "static/css/main.7995fd70.css",
-    "static/js/main.606b62ff.js"
+    "static/js/main.698d3747.js"
   ]
 }
